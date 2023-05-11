@@ -74,9 +74,11 @@
     "Green Component" : 0.9137254901960784
   },
   "Foreground Color" : {
-    "Green Component" : 0.73333334922790527,
-    "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0.73333334922790527
+    "Red Component" : 0.7803921568627451,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.7803921568627451,
+    "Alpha Component" : 1,
+    "Green Component" : 0.7803921568627451
   },
   "Working Directory" : "\/Users\/jamieconnelly",
   "Use Tab Color" : false,
@@ -114,14 +116,18 @@
   "Use Bold Font" : true,
   "Option Key Sends" : 1,
   "Selected Text Color" : {
-    "Green Component" : 0,
+    "Red Component" : 0,
+    "Color Space" : "sRGB",
     "Blue Component" : 0,
-    "Red Component" : 0
+    "Alpha Component" : 1,
+    "Green Component" : 0
   },
   "Background Color" : {
-    "Green Component" : 0,
-    "Blue Component" : 0,
-    "Red Component" : 0
+    "Red Component" : 0.1803921568627451,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.25098039215686274,
+    "Alpha Component" : 1,
+    "Green Component" : 0.20392156862745098
   },
   "Character Encoding" : 4,
   "Ansi 11 Color" : {
@@ -421,7 +427,7 @@
     "Alpha Component" : 1,
     "Green Component" : 1
   },
-  "Minimum Contrast" : 0,
+  "Minimum Contrast" : 0.094661458333333337,
   "Shortcut" : "",
   "Cursor Color" : {
     "Red Component" : 0.50588235294117645,
@@ -433,9 +439,11 @@
   "Transparency" : 0,
   "Guid" : "9C392EAF-8A58-4D1E-8907-FF90495E207F",
   "Ansi 0 Color" : {
-    "Green Component" : 0,
+    "Red Component" : 0,
+    "Color Space" : "sRGB",
     "Blue Component" : 0,
-    "Red Component" : 0
+    "Alpha Component" : 1,
+    "Green Component" : 0
   },
   "Link Color" : {
     "Red Component" : 0.36862745098039218,
@@ -473,11 +481,11 @@
     "Green Component" : 0.9137254901960784
   },
   "Ansi 8 Color" : {
-    "Red Component" : 0,
+    "Red Component" : 0.29803921568627451,
     "Color Space" : "sRGB",
-    "Blue Component" : 0,
+    "Blue Component" : 0.41568627450980394,
     "Alpha Component" : 1,
-    "Green Component" : 0
+    "Green Component" : 0.33725490196078434
   },
   "Ansi 9 Color" : {
     "Red Component" : 0.74901960784313726,

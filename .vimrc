@@ -4,8 +4,8 @@ set nocompatible
 set binary
 
 " Centralize backups, swapfiles
-set backupdir=~/.vim/tmp
-set directory=~/.vim/tmp
+set backupdir=~/.vim/backups
+set directory=~/.vim/backups
 set noswapfile
 
 " Change leader to a comma
@@ -91,3 +91,5 @@ call plug#begin('~/.vim/bundle')
 Plug 'arcticicestudio/nord-vim'
 
 call plug#end()
+
+colorscheme nord
