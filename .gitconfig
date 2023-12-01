@@ -1,0 +1,10 @@
+[user]
+	name = 
+	email = 
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	rb = rebase
+[pull]
+	rebase = true
